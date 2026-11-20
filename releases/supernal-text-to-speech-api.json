@@ -1,0 +1,81 @@
+{
+  "slug": "supernal-text-to-speech-api",
+  "name": "Supernal Text to Speech",
+  "kind": "npm package",
+  "visibility": "external",
+  "updatedAt": "2026-11-20T07:55:06.061Z",
+  "releases": [
+    {
+      "slug": "supernal-text-to-speech-api",
+      "kind": "npm package",
+      "version": "1.0.10",
+      "releasedAt": "2026-01-28T17:25:16.805Z",
+      "summary": "Version 1.0.10 of @supernal/tts-widget was published to npm.",
+      "source": "npm",
+      "link": "https://www.npmjs.com/package/@supernal/tts-widget",
+      "key": "@supernal/tts-widget@1.0.10",
+      "recordedAt": "2026-11-20T07:55:06.061Z",
+      "backfilled": true
+    },
+    {
+      "slug": "supernal-text-to-speech-api",
+      "kind": "npm package",
+      "version": "1.0.6",
+      "releasedAt": "2026-01-23T07:41:47.007Z",
+      "summary": "Version 1.0.6 of @supernal/tts-widget was published to npm.",
+      "source": "npm",
+      "link": "https://www.npmjs.com/package/@supernal/tts-widget",
+      "key": "@supernal/tts-widget@1.0.6",
+      "recordedAt": "2026-11-20T07:55:06.061Z",
+      "backfilled": true
+    },
+    {
+      "slug": "supernal-text-to-speech-api",
+      "kind": "npm package",
+      "version": "1.0.5",
+      "releasedAt": "2026-01-23T07:25:35.861Z",
+      "summary": "Version 1.0.5 of @supernal/tts-widget was published to npm.",
+      "source": "npm",
+      "link": "https://www.npmjs.com/package/@supernal/tts-widget",
+      "key": "@supernal/tts-widget@1.0.5",
+      "recordedAt": "2026-11-20T07:55:06.061Z",
+      "backfilled": true
+    },
+    {
+      "slug": "supernal-text-to-speech-api",
+      "kind": "npm package",
+      "version": "1.0.3",
+      "releasedAt": "2026-01-23T03:27:55.205Z",
+      "summary": "Version 1.0.3 of @supernal/tts-widget was published to npm.",
+      "source": "npm",
+      "link": "https://www.npmjs.com/package/@supernal/tts-widget",
+      "key": "@supernal/tts-widget@1.0.3",
+      "recordedAt": "2026-11-20T07:55:06.061Z",
+      "backfilled": true
+    },
+    {
+      "slug": "supernal-text-to-speech-api",
+      "kind": "npm package",
+      "version": "1.0.1",
+      "releasedAt": "2026-01-23T00:21:07.353Z",
+      "summary": "Version 1.0.1 of @supernal/tts-widget was published to npm.",
+      "source": "npm",
+      "link": "https://www.npmjs.com/package/@supernal/tts-widget",
+      "key": "@supernal/tts-widget@1.0.1",
+      "recordedAt": "2026-11-20T07:55:06.061Z",
+      "backfilled": true
+    },
+    {
+      "slug": "supernal-text-to-speech-api",
+      "kind": "npm package",
+      "version": "1.0.0",
+      "releasedAt": "2026-01-23T00:19:41.930Z",
+      "summary": "Version 1.0.0 of @supernal/tts-widget was published to npm.",
+      "source": "npm",
+      "link": "https://www.npmjs.com/package/@supernal/tts-widget",
+      "key": "@supernal/tts-widget@1.0.0",
+      "recordedAt": "2026-11-20T07:55:06.061Z",
+      "backfilled": true
+    }
+  ]
+}

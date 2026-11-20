@@ -1,0 +1,33 @@
+{
+  "slug": "universal-command",
+  "name": "Universal Command",
+  "kind": "npm package",
+  "visibility": "external",
+  "updatedAt": "2026-11-20T07:55:06.061Z",
+  "releases": [
+    {
+      "slug": "universal-command",
+      "kind": "npm package",
+      "version": "0.1.1",
+      "releasedAt": "2026-07-18T21:58:57.334Z",
+      "summary": "Version 0.1.1 of @supernal/universal-command was published to npm.",
+      "source": "npm",
+      "link": "https://www.npmjs.com/package/@supernal/universal-command",
+      "key": "@supernal/universal-command@0.1.1",
+      "recordedAt": "2026-11-20T07:55:06.061Z",
+      "backfilled": true
+    },
+    {
+      "slug": "universal-command",
+      "kind": "npm package",
+      "version": "0.1.0",
+      "releasedAt": "2026-02-04T15:45:25.905Z",
+      "summary": "Version 0.1.0 of @supernal/universal-command was published to npm.",
+      "source": "npm",
+      "link": "https://www.npmjs.com/package/@supernal/universal-command",
+      "key": "@supernal/universal-command@0.1.0",
+      "recordedAt": "2026-11-20T07:55:06.061Z",
+      "backfilled": true
+    }
+  ]
+}

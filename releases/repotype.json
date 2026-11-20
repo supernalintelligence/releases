@@ -1,0 +1,81 @@
+{
+  "slug": "repotype",
+  "name": "Repotype",
+  "kind": "npm package",
+  "visibility": "external",
+  "updatedAt": "2026-11-20T07:55:06.061Z",
+  "releases": [
+    {
+      "slug": "repotype",
+      "kind": "npm package",
+      "version": "0.1.5",
+      "releasedAt": "2026-04-30T18:52:07.514Z",
+      "summary": "Version 0.1.5 of repotype was published to npm.",
+      "source": "npm",
+      "link": "https://www.npmjs.com/package/repotype",
+      "key": "repotype@0.1.5",
+      "recordedAt": "2026-11-20T07:55:06.061Z",
+      "backfilled": true
+    },
+    {
+      "slug": "repotype",
+      "kind": "npm package",
+      "version": "0.1.4",
+      "releasedAt": "2026-04-30T07:25:39.608Z",
+      "summary": "Version 0.1.4 of repotype was published to npm.",
+      "source": "npm",
+      "link": "https://www.npmjs.com/package/repotype",
+      "key": "repotype@0.1.4",
+      "recordedAt": "2026-11-20T07:55:06.061Z",
+      "backfilled": true
+    },
+    {
+      "slug": "repotype",
+      "kind": "npm package",
+      "version": "0.1.3",
+      "releasedAt": "2026-04-30T06:42:46.639Z",
+      "summary": "Version 0.1.3 of repotype was published to npm.",
+      "source": "npm",
+      "link": "https://www.npmjs.com/package/repotype",
+      "key": "repotype@0.1.3",
+      "recordedAt": "2026-11-20T07:55:06.061Z",
+      "backfilled": true
+    },
+    {
+      "slug": "repotype",
+      "kind": "npm package",
+      "version": "0.1.2",
+      "releasedAt": "2026-04-30T06:38:05.056Z",
+      "summary": "Version 0.1.2 of repotype was published to npm.",
+      "source": "npm",
+      "link": "https://www.npmjs.com/package/repotype",
+      "key": "repotype@0.1.2",
+      "recordedAt": "2026-11-20T07:55:06.061Z",
+      "backfilled": true
+    },
+    {
+      "slug": "repotype",
+      "kind": "npm package",
+      "version": "0.1.1",
+      "releasedAt": "2026-03-10T18:06:50.604Z",
+      "summary": "Version 0.1.1 of repotype was published to npm.",
+      "source": "npm",
+      "link": "https://www.npmjs.com/package/repotype",
+      "key": "repotype@0.1.1",
+      "recordedAt": "2026-11-20T07:55:06.061Z",
+      "backfilled": true
+    },
+    {
+      "slug": "repotype",
+      "kind": "npm package",
+      "version": "0.1.0",
+      "releasedAt": "2026-03-06T23:10:43.989Z",
+      "summary": "Version 0.1.0 of repotype was published to npm.",
+      "source": "npm",
+      "link": "https://www.npmjs.com/package/repotype",
+      "key": "repotype@0.1.0",
+      "recordedAt": "2026-11-20T07:55:06.061Z",
+      "backfilled": true
+    }
+  ]
+}
